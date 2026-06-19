@@ -50,3 +50,19 @@ section{
 html{
     scroll-behavior:smooth;
 }
+
+
+
+.image-row{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin-top:30px;
+}
+
+.image-row img{
+    width:45%;
+    max-width:500px;
+    border-radius:20px;
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+}
