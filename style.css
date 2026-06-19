@@ -1,11 +1,12 @@
 body{
-    background-color:#f5f6ff;
+    background-color:#E6F7FF;
+    color: navy
     font-family:Arial;
     text-align:center;
 }
 
 h1{
-    color:purple;
+    color:navy;
     margin-top:100px;
 }
 
