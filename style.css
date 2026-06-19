@@ -1,12 +1,11 @@
 body{
-    background-color:#E6F7FF;
-    color:navy;
+    background-color:#f5f6ff;
     font-family:Arial;
     text-align:center;
 }
 
 h1{
-    color:navy;
+    color:purple;
     margin-top:100px;
 }
 
@@ -15,8 +14,8 @@ p{
 }
 
 button{
-    background-color:lightblue;
-    color:navy;
+    background-color:white;
+    color:purple;
     border:none;
     padding:15px 30px;
     border-radius:10px;
