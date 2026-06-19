@@ -1,11 +1,12 @@
 body{
-    background-color:#f5f6ff;
+    background-color:#F5F3FF; /* light lavender */
+    color:#4C1D95;            /* deep purple text */
     font-family:Arial;
     text-align:center;
 }
 
 h1{
-    color:purple;
+    color:#6B21A8;            /* purple title */
     margin-top:100px;
 }
 
@@ -14,10 +15,14 @@ p{
 }
 
 button{
-    background-color:white;
-    color:purple;
+    background-color:#8B5CF6; /* medium purple */
+    color:white;
     border:none;
     padding:15px 30px;
     border-radius:10px;
     font-size:18px;
+}
+
+button:hover{
+    background-color:#7C3AED; /* darker purple when hovering */
 }
